@@ -1,0 +1,1 @@
+<?php include("../src/".basename(__DIR__).".php"); ?>
